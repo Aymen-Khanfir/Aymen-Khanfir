@@ -27,6 +27,3 @@
 
 <!-- Correct this one -->
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-khanfir&show_icons=true&locale=en&layout=compact" alt="aymen-khanfir" width="40%" /><img src="https://github-readme-stats.vercel.app/api?username=aymen-khanfir&show_icons=true&locale=en" alt="aymen-khanfir" width="50%" height="100%" align="right" /></p>
-
-### 📈 My GitHub Contributions
-![snake gif](https://github.com/Aymen-Khanfir/Aymen-Khanfir/blob/output/github-contribution-grid-snake.svg)
