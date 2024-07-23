@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymen Khanfir</h1>
-<h3 align="center">FullStack Web Developer From Tunisia</h3>
+<h3 align="center">FullStack Developer From Tunisia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aymen-khanfir.github.io/Website/](https://aymen-khanfir.github.io/Website/))
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs, NestJs, ExpressJs, MongoDB, HTML, CSS, JavaScript**
+- 💬 Ask me about **ReactJs, NextJs, Flutetr, NodeJs, NestJs, ExpressJs, MongoDB, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **aymenkhanfir56@gmail.com**
 
